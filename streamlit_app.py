@@ -21,4 +21,4 @@ if st.button("Please push me"):
 
     lottie("https://assets10.lottiefiles.com/packages/lf20_n1a5ebk9.json")
     lottie("https://assets6.lottiefiles.com/packages/lf20_wzKgBd.json")
-    ":crown::dog::christmas_tree:"*900
+    ":crown::dog::heart:"*900
